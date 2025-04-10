@@ -20,8 +20,8 @@ In addition to platforms like GitHub, researchers often use generalist repositor
 ### NIH-GREI Recommended Repositories
 Under the NIH Generalist Repository Ecosystem Initiative (GREI), several generalist repositories are recognized for hosting biomedical and scientific data. These include:
 
-* Zenodo (zenodo.org): An open repository for EU-funded research but widely used globally.
-* Dryad (datadryad.org): A nonprofit repository focused on publishing and preserving research data.
+* Zenodo ([zenodo.org][https://about.zenodo.org/]): An open repository for EU-funded research but widely used globally.
+* Dryad ([datadryad.org][https://datadryad.org/about]): A nonprofit repository focused on publishing and preserving research data.
 
 These repositories assign DOIs (Digital Object Identifiers) to datasets, making them easier to cite and track.
 
