@@ -11,6 +11,8 @@ You need to download some files to follow this lesson.
   **Let your instructor know if you need help with this step**.
   You should end up with a new folder called **`shell-lesson-data`** on your Desktop.
 
+::::::::::::::::::::::::::::::::::::::::: callout
+
 ## Alternative Data Sources: Generalist Repositories
 
 In addition to platforms like GitHub, researchers often use generalist repositories to store, share, and access datasets. These repositories are designed to preserve research outputs (like data, code, and workflows) in a citable, discoverable, and standardized way. They are particularly valuable for ensuring long-term accessibility and reproducibility of research.
@@ -30,6 +32,8 @@ These repositories assign DOIs (Digital Object Identifiers) to datasets, making 
 * Interoperability: Standardized metadata makes data reusable across disciplines.
 
 For this lesson, we’ve provided the data via GitHub for simplicity, but we encourage you to explore these repositories for your own work.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Install software
 
