@@ -18,7 +18,7 @@ You need to download some files to follow this lesson.
 In addition to platforms like GitHub, researchers often use generalist repositories to store, share, and access datasets. These repositories are designed to preserve research outputs (like data, code, and workflows) in a citable, discoverable, and standardized way. They are particularly valuable for ensuring long-term accessibility and reproducibility of research.
 
 ### NIH-GREI Recommended Repositories
-Under the NIH Generalist Repository Ecosystem Initiative (GREI), several generalist repositories are recognized for hosting biomedical and scientific data. These include:
+Under the NIH Generalist Repository Ecosystem Initiative ([GREI](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative)), several generalist repositories are recognized for hosting biomedical and scientific data. These include:
 
 * Zenodo ([zenodo.org](https://about.zenodo.org/)): An open repository for EU-funded research but widely used globally.
 * Dryad ([datadryad.org](https://datadryad.org/about)): A nonprofit repository focused on publishing and preserving research data.
